@@ -1,0 +1,2 @@
+We have predicted crime count using three types of Regression model for this project. The challenging task of this project is to collect data, since collecting crime data from a single source is a difficult task. We managed to collect data from several sources including govt. websites, newsarticles, research papers.
+Then we pre processed the data, did exploratory data analysis and finally execute three models on it. Our main goal of this project is to predict crime count using machine learning techniques and learn each process effectively.
